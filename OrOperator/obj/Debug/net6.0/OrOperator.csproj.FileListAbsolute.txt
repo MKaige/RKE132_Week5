@@ -1,0 +1,14 @@
+C:\Users\Marge Käige\source\repos\Week5LogicalOperators\OrOperator\bin\Debug\net6.0\OrOperator.exe
+C:\Users\Marge Käige\source\repos\Week5LogicalOperators\OrOperator\bin\Debug\net6.0\OrOperator.deps.json
+C:\Users\Marge Käige\source\repos\Week5LogicalOperators\OrOperator\bin\Debug\net6.0\OrOperator.runtimeconfig.json
+C:\Users\Marge Käige\source\repos\Week5LogicalOperators\OrOperator\bin\Debug\net6.0\OrOperator.dll
+C:\Users\Marge Käige\source\repos\Week5LogicalOperators\OrOperator\bin\Debug\net6.0\OrOperator.pdb
+C:\Users\Marge Käige\source\repos\Week5LogicalOperators\OrOperator\obj\Debug\net6.0\OrOperator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marge Käige\source\repos\Week5LogicalOperators\OrOperator\obj\Debug\net6.0\OrOperator.AssemblyInfoInputs.cache
+C:\Users\Marge Käige\source\repos\Week5LogicalOperators\OrOperator\obj\Debug\net6.0\OrOperator.AssemblyInfo.cs
+C:\Users\Marge Käige\source\repos\Week5LogicalOperators\OrOperator\obj\Debug\net6.0\OrOperator.csproj.CoreCompileInputs.cache
+C:\Users\Marge Käige\source\repos\Week5LogicalOperators\OrOperator\obj\Debug\net6.0\OrOperator.dll
+C:\Users\Marge Käige\source\repos\Week5LogicalOperators\OrOperator\obj\Debug\net6.0\refint\OrOperator.dll
+C:\Users\Marge Käige\source\repos\Week5LogicalOperators\OrOperator\obj\Debug\net6.0\OrOperator.pdb
+C:\Users\Marge Käige\source\repos\Week5LogicalOperators\OrOperator\obj\Debug\net6.0\OrOperator.genruntimeconfig.cache
+C:\Users\Marge Käige\source\repos\Week5LogicalOperators\OrOperator\obj\Debug\net6.0\ref\OrOperator.dll
